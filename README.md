@@ -29,7 +29,7 @@ Este proyecto fue desarrollado como proyecto final para el **Samsung Innovation 
 └── README.en.md             # Documentación en inglés.
 ```
 
-> Nota El dataset de imágenes [UTKFace](https://www.kaggle.com/datasets/abhikjha/utk-face-cropped) no se incluye por restricciones de peso, pero se puede descargar desde Kaggle
+> Nota El dataset de imágenes [UTKFace](https://www.kaggle.com/datasets/roshan81/ageutk?resource=download) no se incluye por restricciones de peso, pero se puede descargar desde Kaggle
 
 ## ▶️ Instrucciones de uso
 

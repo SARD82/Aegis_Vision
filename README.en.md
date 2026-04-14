@@ -29,7 +29,7 @@ This project was developed as the final project for the **Samsung Innovation Cam
 └── README.en.md             # English documentation (this file).
 ```
 
-> Note: The [UTKFace](https://www.kaggle.com/datasets/abhikjha/utk-face-cropped) image dataset is not included due to file size restrictions, but it can be downloaded from Kaggle.
+> Note: The [UTKFace](https://www.kaggle.com/datasets/roshan81/ageutk?resource=download) image dataset is not included due to file size restrictions, but it can be downloaded from Kaggle.
 
 ## ▶️ Usage Instructions
 
